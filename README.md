@@ -25,7 +25,7 @@
 
   SO THAT I can Quickly generate ReadMe files for my projects
 ```
-![GoodReadMeGenerator demo](./Demo.mp4)
+![GoodReadMeGenerator demo](./Demo.gif)
 ---
 ## Contributors
 * Lance Page
